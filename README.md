@@ -1,7 +1,9 @@
 
 # Tic-Tac-Toe-
 
-![GitHub Logo](images.png)
+<div align="center">
+  <img src="image.png" >
+</div>
 
 ```bash
     # change directory to codebase
