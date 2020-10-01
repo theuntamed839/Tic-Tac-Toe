@@ -1,4 +1,4 @@
-- [1] I fixed #your-issue-number-here
+- [!] I fixed #your-issue-number-here
 # Tic-Tac-Toe-
 
 <div align="center">
