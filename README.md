@@ -1,6 +1,6 @@
 
 # Tic-Tac-Toe-
-
+# i do not recommend the code style i followed here. i had created this when i was new to java and cs 
 <div align="center">
   <img src="image.png" >
 </div>
